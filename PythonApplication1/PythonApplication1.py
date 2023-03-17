@@ -1,4 +1,4 @@
-#Rama Mohammed Alyoubi - 2110112
+#Rama Mohammed Alyoubi 
 #the game board: three rocks for player 'M' and three for bot 'W'
 board={1:'M',2:'M',3:'M',
       4:' ',5:' ',6:' ',
